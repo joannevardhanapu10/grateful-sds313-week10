@@ -10,6 +10,8 @@ format: html
      merge conflict. Resolve it together rather than one person overwriting the other. -->
 
 Dharshana Uvaraj
+Joanne Vardhanapu
+Sai Koka
 -
 
 ## Team Visualizations
