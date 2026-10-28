@@ -8,8 +8,16 @@ format: html
 <!-- Everyone: add your name below, one per line. You will likely collide with a teammate
      editing this same list at the same time — that's expected, and it's your first real
      merge conflict. Resolve it together rather than one person overwriting the other. -->
+<<<<<<< HEAD
 Oliver
 
+=======
+
+Dharshana Uvaraj
+Joanne Vardhanapu
+Sai Koka
+-
+>>>>>>> 3872bfc3da5ce3c3344e9420e29bb09abf7de2a7
 
 ## Team Visualizations
 
